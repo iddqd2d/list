@@ -31,7 +31,7 @@
       "maxzoom": 14
     }
   },
-  "sprite": "",
+  "sprite": "https://raw.githubusercontent.com/camptocamp/vector-tiles-demo/master/tiles/styles/osm-bright/sprite",
   "glyphs": "https://raw.githubusercontent.com/developmentseed/osm-seed-visor/master/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
